@@ -1,1 +1,1 @@
-# Ethereum commerce system for Consensus Clubs
+# Ethereum commerce system for Futurities
